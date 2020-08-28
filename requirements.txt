@@ -1,7 +1,5 @@
-fastai==2.0.0
-fastbook==0.0.8
-fastscript==1.0.0
+voila
+fastai>=2
+pillow<7
+packaging
 ipywidgets==7.5.1
-voila==0.1.22
-torch==1.6.0
-torchvision==0.7.0
